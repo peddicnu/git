@@ -14,4 +14,45 @@ git add .gitignore
 
 git commit -m "gitignore file"
 
+git diff
+
+git add committed.js
+
+git diff
+
+git diff --staged
+
+git log
+
+git log --pretty=format:"%h %an %ar - %s"
+
+git show
+
+git remote add origin /s/remote-project/1
+
+git push origin master
+
+git pull origin master
+
+git log
+
+git show
+
+git log
+
+git show
+
+git log --grep="#1234"
+
+git fetch
+
+git checkout remotes/origin/master
+
+git checkout .
+
+git reset HEAD .
+
+git reset --hard HEAD
+
+
 
